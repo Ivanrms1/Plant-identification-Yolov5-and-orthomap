@@ -26,3 +26,5 @@ Before we trained yolov5 with agave plant images, Yolov5 has a better perform th
 plants are in an image. We put the splitted orthomap in the folder that have all splited images, then make inference of all them, and preview results.
 The code are in folder called yolo, but u can found also in https://github.com/ultralytics/yolov5.
 ![texto](https://github.com/Ivanrms1/Plant-identification-Yolov5-and-orthomap/blob/main/assets/DJI_0282_1.jpg)
+
+The results of this train are in https://github.com/Ivanrms1/Plant-identification-Yolov5-and-orthomap/tree/main/TrainResult/exp, were is registered all confidence curves, for training there are still to perform computational tricks like color filters and other, but we started to resolve other big problem, data labeling...
