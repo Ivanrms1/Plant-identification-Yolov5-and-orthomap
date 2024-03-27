@@ -3,7 +3,7 @@ In this we register the algorithm that used to get orthomap, and also to perform
 
 ### Getting video
 The vidio must be taken with a drone, usually we manage a 30m from the floor, actually the paths was settle manually and with average speed of 3 m/s.
-The agave plots taken, was mainly in Cotija, Michoacán, like Llano largo R&M, Llano largo1, Los reyes, and La antena. The data of videos was in google drive https://drive.google.com/drive/folders/1TghSp3iJyLnSymabcPBP2Kca9RURveg5?usp=drive_link. An example of data and video preparation ![texto]{https://github.com/Ivanrms1/Plant-identification-Yolov5-and-orthomap/blob/main/assets/videosysubtitulos.png}
+The agave plots taken, was mainly in Cotija, Michoacán, like Llano largo R&M, Llano largo1, Los reyes, and La antena. The data of videos was in google drive https://drive.google.com/drive/folders/1TghSp3iJyLnSymabcPBP2Kca9RURveg5?usp=drive_link. An example of data and video preparation ![texto](https://github.com/Ivanrms1/Plant-identification-Yolov5-and-orthomap/blob/main/assets/videosysubtitulos.png)
 
 ### Making orthomap
 This is in order to take a precisa or unique plot, we reconrsuct them using the videos obtained from drone path, and extracted the subtitles for georefereciation of the path recorded.
