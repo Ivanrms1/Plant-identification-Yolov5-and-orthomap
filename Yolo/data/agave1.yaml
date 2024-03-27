@@ -1,0 +1,6 @@
+train: dataset/images/train
+val: dataset/images/val
+
+nc: 1  # Número de clases
+names: ['agave']  # Asume 'agave' como tu única clase
+
