@@ -25,3 +25,4 @@ In several ocations we disscused about use rendered models obtained by ODM, to s
 Before we trained yolov5 with agave plant images, Yolov5 has a better perform than U-net segmentation model before, detecting with less error were is a plant, also it's added or edited the code to shown in the inference, how many
 plants are in an image. We put the splitted orthomap in the folder that have all splited images, then make inference of all them, and preview results.
 The code are in folder called yolo, but u can found also in https://github.com/ultralytics/yolov5.
+![texto](https://github.com/Ivanrms1/Plant-identification-Yolov5-and-orthomap/blob/main/assets/DJI_0282_1.jpg)
